@@ -13,13 +13,13 @@ Once the build is done in the command prompt type ***./a.out*** or ***bash a.out
 
 ## Screenshot
 Main menu
-![HTP0](/screen1.png)
+![Main menu](/screen1.png)
 
 In game
-![HTP1](/screen2.png)
+![In game](/screen2.png)
 
 Normal behavior
-![HTP2](/screen3.png)
+![Normal behavior](/screen3.png)
 
 ## Song used
 [CS GO Main menu loop](https://www.youtube.com/watch?v=Rvi6c8toWJM)
