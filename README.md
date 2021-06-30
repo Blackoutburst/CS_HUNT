@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/github/license/Blackoutburst/CS-HUNT.svg)](LICENSE)
+[![License](https://img.shields.io/github/license/Blackoutburst/CS_HUNT.svg)](LICENSE)
 
 # CS HUNT
 This project is a MASTERPIECE of is gender. Nobody ever seen a better hunter game
